@@ -2,6 +2,7 @@
 
 This is a modified version based on [5MayRain/goIndex-theme-nexmoe](https://github.com/5MayRain/goIndex-theme-nexmoe).
 
+![demo image](https://imgur.com/6vcaVkA.png)
 
 
 ## Features
