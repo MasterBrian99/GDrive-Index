@@ -22,7 +22,6 @@ const authConfig = {
         {
             id: "",
             name: "root",
-
             protect_file_link: true
         },
         {
