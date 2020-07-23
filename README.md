@@ -43,3 +43,8 @@ Working On It.!
 [worker](https://brian-content.brian-drive.workers.dev/0:/)
 
 
+## Credits
+
+[@5MayRain/goIndex-theme-nexmoe](https://github.com/5MayRain/goIndex-theme-nexmoe).
+
+
